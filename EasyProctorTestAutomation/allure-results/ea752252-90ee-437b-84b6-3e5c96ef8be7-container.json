@@ -1,0 +1,1 @@
+{"uuid":"ea752252-90ee-437b-84b6-3e5c96ef8be7","name":"com.easyproctor.qa.testcases.Superadmintest","children":["e4a3c14f-072a-4b88-91f2-5e0d9229cad9"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1661342777735,"stop":1661342786687}],"afters":[],"start":1661342777720,"stop":1661342787769}

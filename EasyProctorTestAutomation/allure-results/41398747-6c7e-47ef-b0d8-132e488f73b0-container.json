@@ -1,0 +1,1 @@
+{"uuid":"41398747-6c7e-47ef-b0d8-132e488f73b0","name":"com.easyproctor.qa.testcases.CandidateLoginTest","children":["e76a7b28-fa51-4ea5-b47d-3d78517ce024"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1648027720829,"stop":1648027729944}],"afters":[],"start":1648027720812,"stop":1648027770266}
