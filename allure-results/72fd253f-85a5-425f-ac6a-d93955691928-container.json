@@ -1,0 +1,1 @@
+{"uuid":"72fd253f-85a5-425f-ac6a-d93955691928","name":"com.easyproctor.qa.testcases.CQIStudent","children":["a25d6908-6086-4bc0-9a81-2ca28ef2a54d"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1653565176282,"stop":1653565185920}],"afters":[],"start":1653565176262,"stop":1653565271710}

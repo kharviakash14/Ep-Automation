@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Easy Proctor Test Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.easyproctor.qa.pages.CustomListener"/>
+  </listeners>
+  <test name="Chrome Testing1(failed)">
+    <classes>
+      <class name="com.easyproctor.qa.testcases.EPReviewerTest">
+        <methods>
+          <include name="photoverificationtest"/>
+          <include name="attemptstest"/>
+          <include name="manageproctor"/>
+          <include name="schedulepagetest"/>
+          <include name="videoplay"/>
+          <include name="logintest"/>
+          <include name="studentnametest"/>
+          <include name="teardown"/>
+          <include name="examnametest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.easyproctor.qa.testcases.EPReviewerTest -->
+    </classes>
+  </test> <!-- Chrome Testing1(failed) -->
+</suite> <!-- Failed suite [Easy Proctor Test Automation Test Suite] -->

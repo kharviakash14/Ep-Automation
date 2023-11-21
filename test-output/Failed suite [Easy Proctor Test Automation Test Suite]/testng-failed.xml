@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Easy Proctor Test Automation Test Suite]]">
+  <listeners>
+    <listener class-name="com.easyproctor.qa.pages.CustomListener"/>
+  </listeners>
+  <test name="Chrome Testing(failed)(failed)">
+    <classes>
+      <class name="com.easyproctor.qa.testcases.DashboardPageTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setUp"/>
+          <include name="numberofrowstest"/>
+        </methods>
+      </class> <!-- com.easyproctor.qa.testcases.DashboardPageTest -->
+      <class name="com.easyproctor.qa.testcases.TestSubmissionpageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="teardown"/>
+          <include name="studentlisttest"/>
+          <include name="submissiontest"/>
+        </methods>
+      </class> <!-- com.easyproctor.qa.testcases.TestSubmissionpageTest -->
+      <class name="com.easyproctor.qa.testcases.VideoPageTest">
+        <methods>
+          <include name="approvetest"/>
+          <include name="setUp"/>
+          <include name="rejecttest"/>
+          <include name="videoplaytest"/>
+          <include name="aftertest"/>
+        </methods>
+      </class> <!-- com.easyproctor.qa.testcases.VideoPageTest -->
+      <class name="com.easyproctor.qa.testcases.StudentPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="studentattemptstest"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.easyproctor.qa.testcases.StudentPageTest -->
+      <class name="com.easyproctor.qa.testcases.StudentPhotoTest">
+        <methods>
+          <include name="continuebuttonclicktest"/>
+          <include name="setUp"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.easyproctor.qa.testcases.StudentPhotoTest -->
+    </classes>
+  </test> <!-- Chrome Testing(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Easy Proctor Test Automation Test Suite]] -->
